@@ -1,9 +1,7 @@
 header h1 {
     color: gray;
 }
-nav ul {
-    padding: 0;
-}
+nav {padding: 0;}
 nav ul li {
     float: left;
     list-style-type: none;
