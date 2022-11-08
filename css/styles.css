@@ -1,6 +1,9 @@
 header h1 {
     color: gray;
 }
+nav ul {
+    padding: 0;
+}
 nav ul li {
     float: left;
 }
@@ -19,4 +22,5 @@ main img {
 }
 footer {
     text-align: center;
+    clear: both;
 }
