@@ -1,0 +1,11 @@
+header h1 {
+    color: orangered;
+}
+nav ul li {
+    float: left;
+}
+nav ul li a {
+    display: block;
+    padding: .5rem 1rem;
+    background-color: gray;
+}
