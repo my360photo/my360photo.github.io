@@ -1,5 +1,5 @@
 header h1 {
-    color: orangered;
+    color: gray;
 }
 nav ul li {
     float: left;
@@ -7,6 +7,5 @@ nav ul li {
 nav ul li a {
     display: block;
     padding: .5rem 1rem;
-    background-color: gray;
-    color: orange;
+    background-color: orange;
 }
