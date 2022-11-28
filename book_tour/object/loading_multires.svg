@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg height="7px" viewBox="0 0 128 35" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26px" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.0">
+ <g>
+  <circle fill="#ffffff" r="17.5" cy="17.5" fill-opacity="1" cx="17.5"/>
+  <animate keyTimes="0;0.167;0.5;0.668;1" dur="600ms" values="0.3;1;1;0.3;0.3" begin="0s" repeatCount="indefinite" attributeName="opacity"/>
+ </g>
+ <g>
+  <circle fill="#ffffff" r="17.5" cy="17.5" fill-opacity="1" cx="110.5"/>
+  <animate keyTimes="0;0.334;0.5;0.835;1" dur="600ms" values="0.3;0.3;1;1;0.3" begin="0s" repeatCount="indefinite" attributeName="opacity"/>
+ </g>
+ <g>
+  <circle fill="#ffffff" r="17.5" cy="17.5" fill-opacity="1" cx="64"/>
+  <animate keyTimes="0;0.167;0.334;0.668;0.835;1" dur="600ms" values="0.3;0.3;1;1;0.3;0.3" begin="0s" repeatCount="indefinite" attributeName="opacity"/>
+ </g>
+</svg>
