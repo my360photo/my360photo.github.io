@@ -17,11 +17,13 @@ img {
 h1 {
     clear: both;
     margin-left: 100px;
+    color: white;
 }
 
 p {
     margin-left: 100px;
     size: 18px;
+    color: white;
 }
 
 h2 {
@@ -37,7 +39,11 @@ ol {
 }
 
 a {
-    color: white;
+    color: white; 
+}
+
+a:hover {
+    color: rgb(58, 58, 58);
 }
 
 footer {
