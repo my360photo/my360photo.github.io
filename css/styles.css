@@ -14,10 +14,7 @@ img {
 }
 
 h2 {
-    color: orange;
     margin-left: 50px;
-    padding-right: 25px;
-    color: gray;
 }
 
 main h1 {
@@ -25,12 +22,16 @@ main h1 {
 }
 
 ol {
-
+    background-color: orange;
+    margin-left: 50px;
+    padding-right: 25px;
+    color: gray;
 }
 
 p {
     margin-left: 25px;
 }
+
 
 footer {
     text-align: center;
