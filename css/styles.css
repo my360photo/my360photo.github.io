@@ -29,8 +29,10 @@ h2 {
 }
 
 ol {
-    margin-left: 150px;
+    margin-left: 100px;
     list-style: none;
+    border: #FF7A00;
+    border-radius: 10px;
 }
 
 footer {
