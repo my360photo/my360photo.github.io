@@ -1,9 +1,9 @@
 body {
     background-image: linear-gradient(white, rgb(53, 53, 53));
 
-header h1 {
+h1 {
     color: darkorange;
-    margin-left: 25px;
+    margin: (50, 0, 0);
 }
 
 img {
