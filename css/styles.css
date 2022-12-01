@@ -3,7 +3,7 @@ body {
 }
 
 header h1 {
-    color: orange;
+    color: darkorange;
     margin-left: 25px;
 }
 
@@ -15,7 +15,9 @@ img {
 
 h2 {
     margin-left: 50px;
+    color: darkorange;
 }
+
 
 main h1 {
     clear: both;
