@@ -16,19 +16,20 @@ img {
 
 main h1 {
     clear: both;
+    margin-left: 100px;
 }
 
 p {
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 h2 {
-    margin-left: 50px;
+    margin-left: 100px;
     color: #FF7A00;
 }
 
 ol {
-    margin-left: 50px;
+    margin-left: 150px;
     list-style: none;
 }
 
