@@ -45,9 +45,11 @@ a:hover {
 }
 
 div {
-    width: 300px;
+    width: 1000px;
     border: 5px solid lightgray;
-    
+    margin-left: 100px;
+    margin-bottom: 20px;
+    background-color: #222222;
 }
 
 footer {
