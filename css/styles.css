@@ -1,22 +1,22 @@
 body {
-    background-color: lightslategray;
+    background-color:gray;
 }
 
 header h1 {
-    color: gray;
+    color: orange;
     margin-left: 25px;
 }
 
 img {
-    max-width: 1000px;
-    height: 
+    max-width: 100%;
+    height: 200px;
+    float: none;
 }
 
 h2 {
-    background-color: coral;
-    width: fit-content;
+    color: orange;
     margin-left: 50px;
-    padding: 20 10 20;
+    padding-right: 25px;
     color: gray;
 }
 
