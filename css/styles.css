@@ -21,6 +21,7 @@ h1 {
 
 p {
     margin-left: 100px;
+    size: 18px;
 }
 
 h2 {
@@ -35,7 +36,12 @@ ol {
     border-radius: 10px;
 }
 
+a {
+    color: white;
+}
+
 footer {
     text-align: center;
     clear: both;
+    margin-top: auto;
 }
