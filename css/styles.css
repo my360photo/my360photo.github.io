@@ -5,11 +5,13 @@ header h1 {
 img {
     max-width: 100%;
     height: auto;
+    align-items: center;
 }
 
-h1 {
+h2 {
     background-color: coral;
-    margin-left: 25px;
+    margin-left: 50px;
+    color: gray;
 }
 
 nav {padding: 0;}
