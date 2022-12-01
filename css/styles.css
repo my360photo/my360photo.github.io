@@ -3,9 +3,8 @@ header h1 {
 }
 
 img {
-    width:max-content;
-    height: 300px;
-    align-items: center;
+    max-width: 100%;
+    height: auto;
 }
 
 h1 {
