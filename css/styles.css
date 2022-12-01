@@ -1,11 +1,12 @@
 header h1 {
     color: gray;
+    margin-left: 25px;
 }
 
 image {
     max-width: 100%;
     height: auto;
-    align-items: center;
+    float: none;
 }
 
 h2 {
@@ -17,10 +18,7 @@ h2 {
 main h1 {
     clear: both;
 }
-main img {
-    float: right;
-    size: 200px;
-}
+
 footer {
     text-align: center;
     clear: both;
