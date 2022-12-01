@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(#aeaeae, #222222);
+    background-image: linear-gradient(#cacaca, #222222);
 }
 
 img {
@@ -34,8 +34,6 @@ h2 {
 ol {
     margin-left: 125px;
     list-style: none;
-    border: #FF7A00;
-    border-radius: 10px;
 }
 
 a {
@@ -46,8 +44,15 @@ a:hover {
     color: rgb(118, 118, 118);
 }
 
+div {
+    width: 300px;
+    border: 5px solid lightgray;
+    
+}
+
 footer {
     text-align: center;
     clear: both;
     margin-top: auto;
+    color: white;
 }
