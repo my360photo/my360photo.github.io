@@ -1,9 +1,5 @@
 body {
     background-image: linear-gradient(#aeaeae, #222222);
-    margin: ;
-h1 {
-    margin-left: 50px;
-    color: black;
 }
 
 img {
@@ -20,28 +16,23 @@ img {
     width: 50%;
 }
 
-}
-
-h2 {
-    margin-left: 50px;
-    color: black;
-}
-
-
 main h1 {
     clear: both;
-}
-
-
-ol {
-    margin-left: 50px;
-    list-style: none;
 }
 
 p {
     margin-left: 50px;
 }
 
+h2 {
+    margin-left: 50px;
+    color: #FF7A00;
+}
+
+ol {
+    margin-left: 50px;
+    list-style: none;
+}
 
 footer {
     text-align: center;
